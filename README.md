@@ -3,6 +3,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202-yellow)](https://opensource.org/licenses/Apache-2.0)
 [![PyPI version](https://badge.fury.io/py/trc-data-reader.svg)](https://pypi.org/project/trc-data-reader/)
+![Conda version](https://camo.githubusercontent.com/08792d47293561725a86d506760f333b3a61547dae0c65b1cc3e098f9f0ac175/68747470733a2f2f696d672e736869656c64732e696f2f636f6e64612f766e2f636f6e64612d666f7267652f7472632d646174612d7265616465722e737667)
 [![Build Status](https://github.com/hsorby/trc-data-reader/workflows/trc-data-reader/badge.svg)](https://pypi.org/project/trc-data-reader/)
 [![Coverage](https://raw.githubusercontent.com/hsorby/badges/main/trc-data-reader/coverage.svg)](https://pypi.org/project/trc-data-reader/)
 
@@ -14,6 +15,10 @@ The `TRCData` object behaves like a standard Python dictionary, providing simple
 
 ```bash
 pip install trc-data-reader
+```
+or 
+```
+conda install -c conda-forge
 ```
 
 ## Usage
